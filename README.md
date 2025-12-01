@@ -1,2 +1,2 @@
-# TSMini-ToopSternal-Mini-
+# TSMini-ToopSternal-Mini
 Small walkspeed external. Undetected.
